@@ -37,6 +37,15 @@ body {
     margin: 0px 50px;
     text-align: start;
 }
+.about-p{
+  
+   text-align: end;
+}
+.about-a{
+    color: black;
+    font-weight: 800;
+    text-decoration: none;
+}
 .image{
     display: block;
     margin: 0 auto;
