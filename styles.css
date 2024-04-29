@@ -1,0 +1,43 @@
+html{
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    background-image: url(/images/Computer-screen-code-glitch-animation-gif-background-free.gif) ;
+    
+}
+body {
+    width: 800px;
+    background-color: #ff9500;
+    margin: 0 auto;
+    border: 5px solid white;
+  }
+.container{
+  
+    padding: 0 20px 20px 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.container-text1{
+    margin: 20px 0 ;
+}
+.ordered-1{
+    text-align: left;
+    margin: 10px 50px;
+}
+.container-image{
+    height: auto;
+    width: 100%;
+}
+.title-1{
+    margin: 0;
+    padding: 20px 0;
+}
+.title-2{
+    margin: 0px 50px;
+    text-align: start;
+}
+.image{
+    display: block;
+    margin: 0 auto;
+}
